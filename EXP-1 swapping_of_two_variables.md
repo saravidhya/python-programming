@@ -30,7 +30,7 @@ y = temp
 print("Swapped values are:",x,y)
 ```
 ## Output:
-![OUTPUT](./images/FILENAME.png)
+![OUTPUT](Screenshot (48).png)
 
 
 ## Result:
