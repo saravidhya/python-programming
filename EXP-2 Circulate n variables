@@ -33,7 +33,7 @@ n=int(input())
 ```
 
 ## Output:
-![OUTPUT]  
+![OUTPUT]![Screenshot (49)](https://github.com/saravidhya/python-programming/assets/87062069/fa0239e9-a305-4d88-85bf-f9c85b209b72)
 
 ## Result:
 The output for circulate the values of n variables is successfull.
