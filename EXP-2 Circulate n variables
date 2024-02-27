@@ -33,7 +33,7 @@ n=int(input())
 ```
 
 ## Output:
-![OUTPUT]
+![OUTPUT]  
 
 ## Result:
 The output for circulate the values of n variables is successfull.
