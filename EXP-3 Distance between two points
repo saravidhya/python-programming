@@ -31,6 +31,7 @@ print(f"{d:.2f}")
 ```
 
 ### OUTPUT
+![OUTPUT]![Screenshot (50)](https://github.com/saravidhya/python-programming/assets/87062069/f8181dad-ba11-407a-b4e7-6d228446c296)
 
 ### RESULT:
 The distance between the two points is sucessfully executed and displayed.
